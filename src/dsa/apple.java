@@ -32,7 +32,7 @@ public class apple {
     public static void main(String[] args) {
 
       //  Double[] arr={5.0,19.0,8.0,1.0};
-//        Double[] arr1={3.0,0.0,5.0};
+//        Double[] arddr1={3.0,0.0,5.0};
 //        filter1(arr1);
         int []arrival={1,3,3,5,7};
         int [] duration={2,2,1,2,1};
